@@ -1,0 +1,25 @@
+body {
+  background-color: #ebeff5;
+}
+
+h1 {
+  color: #064766;
+   font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+p {
+  font-family: garamond;
+  font-size: 20px;
+}
+
+/* unvisited link */
+a:link {
+  color: #064766;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #064766;
+  text-decoration: none;
+}
